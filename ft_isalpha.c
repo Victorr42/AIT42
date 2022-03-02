@@ -17,5 +17,5 @@ int	is_alpha(int i)
 	{
 		return (1);
 	}
-	return (i);
+	return (1);
 }
