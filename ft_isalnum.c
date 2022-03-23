@@ -9,5 +9,8 @@ int	ft_isalnum(int i)
 	}
 	return (0);
 }
+<<<<<<< HEAD
 /*Hillo!*/
 /69**
+=======
+>>>>>>> parent of 872f356... Update ft_isalnum.c
