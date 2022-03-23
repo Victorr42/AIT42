@@ -9,3 +9,4 @@ int	ft_isalnum(int i)
 	}
 	return (0);
 }
+/*Hillo!*/
